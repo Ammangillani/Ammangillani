@@ -19,7 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ammangillani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ammangillani&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammangillani&theme=algolia" alt="ammangillani" /></a> </p>
 
