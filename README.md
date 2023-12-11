@@ -25,9 +25,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ammangillani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img align="right" src="https://streak-stats.demolab.com?user=ammangillani&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ammangillani&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ammangillani&theme=2077" height="180em" />
-</div>
 
 ## 🏆 GitHub Trophies
 
