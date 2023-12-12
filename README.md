@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently learning **Mern Stack Development**
+- 🔭 I’m currently Working on **Javascript**
 
 - 🌱 I’m currently learning **React.js,Tailwind,Next.js**
 
