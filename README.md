@@ -5,9 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently Working on **Javascript**
-
-- 🌱 I’m currently learning **React.js,Tailwind,Next.js**
+- 🌱 I’m currently learning **React.js,**
 
 - 👯 I’m looking to collaborate on **React.js Project**
 
@@ -37,7 +35,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ammangillani&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ammangillani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ammangillani&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ammangillani&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
