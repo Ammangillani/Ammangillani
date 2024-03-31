@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js,**
 
-- 👯 I’m looking to collaborate on **React.js Project**
+- 👯 I’m looking to collaborate on **React.JS Project**
 
 - 👨‍💻 All of my projects are available at [https://finfolio-404.netlify.app/](https://finfolio-404.netlify.app/)
 
