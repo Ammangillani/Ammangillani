@@ -5,17 +5,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **React.js,**
+- 🌱 I’m currently learning **DSA | Next.js**
 
-- 👯 I’m looking to collaborate on **React.JS Project**
+- 👯 I’m looking to collaborate on **React.js | Next.js | MERN Project**
 
 - 👨‍💻 All of my projects are available at [https://finfolio-404.netlify.app/](https://finfolio-404.netlify.app/)
 
-- 💬 Ask me about **Javascript , React**
+- 💬 Ask me about **Javascript | React.js | Next.js**
 
 - 📫 How to reach me **ammangillani4321@icloud.com**
 
-- ⚡ Fun fact **I Think I'm Funny**
+- ⚡ Fun fact **I Think I'm FUNNY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
