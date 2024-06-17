@@ -84,7 +84,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ammangillani&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ammangillani&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ammangillani&theme=dark&border_radius=8.6)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
